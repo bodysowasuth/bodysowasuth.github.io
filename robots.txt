@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodysowasuth.github.io/sitemap.xml
